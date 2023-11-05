@@ -262,7 +262,6 @@ func init() {
 	// sus = append(sus, 12345678)
 	// sus = append(sus, 87654321)
 
-	
 	// 启用 webui
 	// go webctrl.RunGui(*g)
 
